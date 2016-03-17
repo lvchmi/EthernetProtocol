@@ -1,0 +1,4 @@
+#define MAX_SIZE 2048
+#define ETHERNET_IP 0X0800
+#define MAX_IP_PACKET_SIZE 1400
+
